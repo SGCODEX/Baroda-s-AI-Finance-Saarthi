@@ -28,7 +28,7 @@ The platform features a super user-friendly interface that makes it easy to visu
 - Web Dev(HTML, CSS, JS, REACT.JS)
 - AI ML Models
 - Azure Services (Azure Cosmos DB, Azure Cloud Services, Azure Natural Language Processing, Azure Machine Learning Models, Azure AI Cognitive Speech Service etc)
-- Docker & Kubernetics
+- Docker & Kubernetes
 - DBMS
 - APIs
 
