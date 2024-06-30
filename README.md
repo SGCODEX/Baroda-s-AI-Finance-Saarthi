@@ -21,9 +21,12 @@ The platform features a super user-friendly interface that makes it easy to visu
 
 ## Tech Stack
 - Python (>= 3.6)
-- Django
-- Web Dev(HTML CSS JS REACT)
-- 
+- Web Dev(HTML, CSS, JS, REACT.JS)
+- AI ML Models
+- Azure Services (Azure Cosmos DB, Azure Cloud Services, Azure Natural Language Processing, Azure Machine Learning Models, Azure AI Cognitive Speech Service etc)
+- Docker & Kubernetics
+- DBMS
+- APIs
 
 ### git Contributions
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
