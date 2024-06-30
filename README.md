@@ -28,7 +28,7 @@ The platform features a super user-friendly interface that makes it easy to visu
 - DBMS
 - APIs
 
-### git Contributions
+## Git Contributions
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-### Thank you - Team CodeCrusaders
+### Thank you - By Team CodeCrusaders
