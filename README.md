@@ -1,6 +1,10 @@
 # Baroda's AI Finance Saarthi
  a platform that personalizes financial advice, prioritizes data security and privacy, and caters to a diverse range of users, from young adults to retirees. The platform will empower users to gain personalized financial advice on any topic through simulation, while keeping their financial background in mind.
 
+## Workflow
+![Workflow Diagram BOB](https://github.com/SGCODEX/Baroda-s-AI-Finance-Saarthi/assets/64886313/b197fb33-0f68-4695-b79b-41afc93c01bc)
+
+
 ## Overview
 Our AI-driven financial advisory platform is designed to make managing your money easier and more personal. By analyzing a wide range of data like your income, spending habits, investment history, risk tolerance, financial goals, and life events, the platform creates a detailed financial profile just for you. It keeps up with real-time market trends to give you the most up-to-date advice.
 
